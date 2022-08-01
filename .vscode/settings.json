@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".metadata": true,
+    ".packages": true,
+    "ios": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    "template.iml": true,
+    "analysis_options.yaml": true
+  }
+}
